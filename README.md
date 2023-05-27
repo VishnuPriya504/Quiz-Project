@@ -18,7 +18,7 @@ Clone the project repository from GitHub:
 
 bash
 Copy code
-git clone https://github.com/your-username/js-quiz-project.git
+git clone https://https://github.com/VishnuPriya504/Quiz-Project
 Navigate to the project directory:
 
 bash
